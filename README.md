@@ -1,2 +1,3 @@
 # .github
-LiaScript Kursmaterialien der Arbeitsgruppe Softwareentwicklung und Robotik
+
+Hält die README.md Datei für die Darstellung der Organiation bereit 
