@@ -8,4 +8,9 @@
 | [Softwareprojekt Robotik](https://github.com/TUBAF-IfI-LiaScript/VL_SoftwareprojektRobotik)       | [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/Workshop_Freiberg_09-12-1021/main/README.md#1)           | ![GitHub contributors](https://img.shields.io/github/contributors/TUBAF-IfI-LiaScript/VL_SoftwareprojektRobotik) |
 | [Softwareentwicklung für eingebettete Systeme](https://github.com/TUBAF-IfI-LiaScript/VL_DigitaleSysteme)                     | [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/TUBAF-IfI-LiaScript/VL_DigitaleSysteme/main/lectures/00_Einfuehrung.md#1)             | ![GitHub contributors](https://img.shields.io/github/contributors/TUBAF-IfI-LiaScript/VL_DigitaleSysteme) |
 
-Die gesamten Veranstaltungen und die zugehörigen Vorlesungsmaterialien sind unter [Link](https://tubaf-ifi-liascript.github.io/) zu finden.
+Die gesamten Veranstaltungen und die zugehörigen Vorlesungsmaterialien sind unter [Link](https://tubaf-ifi-liascript.github.io/) zu finden. Das nachfolgende Video illustriert die kooperative Erarbeitung der Materialien seit 2018.
+
+https://github.com/TUBAF-IfI-LiaScript/.github/assets/10922356/00a24602-dc63-4b9a-894b-80967b914513
+
+> Sie wollen auch dabei sein - wir freuen uns auf Ihren ersten Pullrequest :-)
+
